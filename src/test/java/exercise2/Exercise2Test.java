@@ -50,5 +50,6 @@ public class Exercise2Test {
 //		assertThat(loadedClassroom).isNotNull();
 //		assertThat(loadedClassroom.getTeacher()).isEqualTo(TEACHER);
 //		assertThat(loadedClassroom.getStudents()).containsOnly(STUDENTS);
+		//Mis en commentaires par le prof car bug
 	}
 }
